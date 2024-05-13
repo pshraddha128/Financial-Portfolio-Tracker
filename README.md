@@ -16,3 +16,9 @@ The Financial Portfolio Tracker is a web-based tool designed to help you efficie
 - Google Sheets: Dynamically fetch and update data from the NSE website.
 
 - Power BI: Integrated for powerful and dynamic data visualizations.
+
+
+## Visuals
+![image](https://github.com/pshraddha128/Financial-Portfolio-Tracker/assets/143784340/ea5e48c9-a672-4f0c-b7e3-70a50d4c54e8)
+![image](https://github.com/pshraddha128/Financial-Portfolio-Tracker/assets/143784340/616c7f11-a26f-4343-ab04-ae26facc8586)
+
